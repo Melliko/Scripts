@@ -1,4 +1,3 @@
-cld-st224-2
 cld-st400-2
 cld-st401-1
 cld-st401-2
@@ -43,5 +42,4 @@ cld-st542-2
 cld-st546-1
 cld-st548-2
 cld-st659-2
-cld-st685-2
 cld-st700-2
