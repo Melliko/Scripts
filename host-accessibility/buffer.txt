@@ -1,0 +1,1 @@
+ssh: connect to host win87.dev.mail.ru port 22: Connection timed out
